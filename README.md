@@ -7,7 +7,7 @@
 A full stack web developer with a passion for creating beautiful, functional websites. The expertise lies in HTML, CSS, JavaScript, React and Node.js.  
 
 ## About Me
-<table><tr><td valign="top" width="50%">
+<!-- <table><tr><td valign="top" width="50%"> -->
 
 - An aspiring Full Stack Web Developer  
   
@@ -21,10 +21,10 @@ A full stack web developer with a passion for creating beautiful, functional web
 - I’m currently open for an Internship or a new job opportunity, this is my [resume](https://drive.google.com/file/d/1p7Vm06VmqAqjRr9E6mDzQGHHrWgXLUuI/view?usp=share_link)  
 
 
-</td><td valign="top" width="50%">
+<!-- </td><td valign="top" width="50%"> -->
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/mdImages/Right_Side.gif" align="center" style="width: 60%" />
+<img src="https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/mdImages/Right_Side.gif" align="center" style="width: 50%" />
 </div>  
 
 
