@@ -72,7 +72,7 @@ A full stack web developer with a passion for creating beautiful, functional web
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 <a href="https://medium.com/gmail" target="_blank">
-<img src=[https://img.shields.io/badge/medium-%23292929.svg?](https://camo.githubusercontent.com/132813b315bb01e63fb659045d3653b5bcbd1c057cbc1d35b5c425aceb752ec9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f676d61696c202d2532334541343333352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465)&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
+<img src=(https://camo.githubusercontent.com/132813b315bb01e63fb659045d3653b5bcbd1c057cbc1d35b5c425aceb752ec9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f676d61696c202d2532334541343333352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465)&style=for-the-badge&logo=medium&logoColor=white alt=gmail style="margin-bottom: 5px;" />
 </a>  
 </div>  
   
