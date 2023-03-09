@@ -6,19 +6,19 @@
 ### Glad to see you here!  
 A full stack web developer with a passion for creating beautiful, functional websites. The expertise lies in HTML, CSS, JavaScript, React and Node.js.  
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+### <div align="center">About me 👋🏻</div>  
   
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
+- An aspiring Full Stack Web Developer  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- Currently studying Full Stack Web Development at Masai, Full Time  
   
 
-- ⚡ Fun fact: I keep night shift swithed on at all times   
+- Portfolio [link]()  
+  
+
+- I’m currently open for an Internship or a new job opportunity, this is my [resume]()  
 
 
 </td><td valign="top" width="50%">
