@@ -24,7 +24,7 @@ A full stack web developer with a passion for creating beautiful, functional web
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/mdImages/Right_Side.gif" align="center" style="width: 100%" />
 </div>  
 
 
