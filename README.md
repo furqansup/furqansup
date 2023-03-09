@@ -1,23 +1,18 @@
-# 💫 Hey! I'm Furqan Ahmed
-A full stack web developer with a passion for creating beautiful, functional websites. The expertise lies in HTML, CSS, JavaScript, React and Node.js.
-            <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 60%" />
-</div>  
+## Hey 👋, I'm Furqan Ahmed  
   
 
-### <div align="center">About me 👋🏻</div>  
+
+
+### Glad to see you here!  
+A full stack web developer with a passion for creating beautiful, functional websites. The expertise lies in HTML, CSS, JavaScript, React and Node.js.  
   
 
-- An aspiring Full Stack Web Developer  
-  
-
-- Currently studying Full Stack Web Development at Masai, Full Time  
-  
-
-- Portfolio [link]()  
-  
-
-- I’m currently open for an Internship or a new job opportunity, this is my [resume]()  
+<a href="https://github.com/rishavanand" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/iamrishavanand" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
   
 
 <br/>  
@@ -60,33 +55,16 @@ A full stack web developer with a passion for creating beautiful, functional web
 <br/>  
 
 
-## Connect with me  
-<div align="center">
-<a href="mailto:furqanahmedmj@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail -%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>  
-<a href="https://linkedin.com/in/furqan-ahmed-1ab0931ab" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/poppin_f.a" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-</div>  
-  
-
-<br/>  
-
-
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=furqansup&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<table><tr><td valign="top" width="50%">
 
-<br/>  
+<img src="https://github-readme-stats.vercel.app/api?username=furqansup&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
+</td><td valign="top" width="50%">
 
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furqansup&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table>  
 
 <br/>  
 
@@ -94,13 +72,7 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=furqansup&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
+![Profile views counter](https://komarev.com/ghpvc/?username=furqansup&&style=flat-square)  
   
 
 <br/>  
