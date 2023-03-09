@@ -6,7 +6,8 @@
 
 A full stack web developer with a passion for creating beautiful, functional websites. The expertise lies in HTML, CSS, JavaScript, React and Node.js.  
 
-## About me 
+## About Me
+### <div align="center"></div>  
   
 
 - An aspiring Full Stack Web Developer  
