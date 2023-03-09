@@ -1,5 +1,5 @@
 # 💫 Hey! I'm Furqan Ahmed
-A full stack web developer with a passion for creating beautiful, functional websites. <br> The expertise lies in HTML, CSS, JavaScript, React and Node.js.
+A full stack web developer with a passion for creating beautiful, functional websites. The expertise lies in HTML, CSS, JavaScript, React and Node.js.
             <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 60%" />
 </div>  
