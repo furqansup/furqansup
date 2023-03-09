@@ -1,10 +1,7 @@
 ## Hey 👋, I'm Furqan Ahmed  
   
+ ![Profile views counter](https://komarev.com/ghpvc/?username=furqansup&&style=flat-square)  
 
-
-
-
-A full stack web developer with a passion for creating beautiful, functional websites. The expertise lies in HTML, CSS, JavaScript, React and Node.js.  
 
 ## About Me
 <table><tr><td valign="top" width="50%">
@@ -103,7 +100,7 @@ A full stack web developer with a passion for creating beautiful, functional web
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=furqansup&&style=flat-square)  
+
   
 
 <br/>  
