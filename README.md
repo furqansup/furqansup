@@ -51,7 +51,7 @@ A full stack web developer with a passion for creating beautiful, functional web
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="75" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+<!-- </td><td valign="top" width="33%"> -->
 
 
 
@@ -65,7 +65,7 @@ A full stack web developer with a passion for creating beautiful, functional web
 <a href="https://github.com/furqansup" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/Furqan Ahmed" target="_blank">
+<a href="https://linkedin.com/in/furqan-ahmed-1ab0931ab" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/poppin_f.a" target="_blank">
@@ -112,4 +112,3 @@ If things goes well, this section should automatically be replaced by a list of 
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
