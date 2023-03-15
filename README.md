@@ -12,7 +12,7 @@
 - Currently studying Full Stack Web Development at Masai, Full Time  
   
 
-- Portfolio [link](https://furqansup.github.io/portfolio/)  
+- Portfolio [link](https://furqansup.github.io/)  
   
 
 - I’m currently open for an Internship or a new job opportunity, this is my [resume](https://drive.google.com/file/d/1p7Vm06VmqAqjRr9E6mDzQGHHrWgXLUuI/view?usp=share_link)  
