@@ -9,7 +9,7 @@
 - An aspiring Full Stack Web Developer  
   
 
-- Currently studying Full Stack Web Development at Masai, Full Time  
+- Currently studying Full Stack Web Development.
   
 
 - Portfolio [link](https://furqansup.github.io/)  
